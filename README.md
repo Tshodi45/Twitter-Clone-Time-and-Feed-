@@ -27,4 +27,4 @@ Getting Started
 6.  Start the application ( npm start)
 
 
-N.
+N.B I did add the Include a Postman or Insomnia collection with the API
